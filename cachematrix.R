@@ -7,7 +7,7 @@
 ## from the cache.
 ##
 ## The <<- operator assigns a value to an object in an environment that is different from the current environment.
-## That part is still a bit mysterious to me.
+## That part is still a bit mysterious to me..
 
 
 ## makeCacheMatrix creates a special "matrix" object that can cache its inverse.
